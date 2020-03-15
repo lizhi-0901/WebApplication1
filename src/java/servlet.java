@@ -9,5 +9,7 @@
  * @author lizhiwang
  */
 public class servlet {
-    
+    public void getId(){
+        String git="llll";
+    }
 }
