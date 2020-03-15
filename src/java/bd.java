@@ -9,5 +9,7 @@
  * @author lizhiwang
  */
 public class bd {
-    
+    public void connection(){
+        String user="lisa";
+    }
 }
