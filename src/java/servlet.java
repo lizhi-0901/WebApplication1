@@ -11,5 +11,6 @@
 public class servlet {
     public void getId(){
         String git="llll";
+        int i=1;
     }
 }
