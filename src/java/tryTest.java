@@ -9,5 +9,5 @@
  * @author 18311
  */
 public class tryTest {
-    
+    String st  = "write sommething";
 }
